@@ -36,4 +36,4 @@ filesys.readFile("./userdata.txt" ,"utf-8" , (err, resu) => {
 // filesys.unlinkSync("./copieddata2.txt");
 
 // To create a directory(folder)
-filesys.mkdirSync("folder_name")
+// filesys.mkdirSync("folder_name")
